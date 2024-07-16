@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar {
+  height: 50px;
+  line-height: 50px;
+}
+.top-bar a {
+  color: #1D4AF5;
+}
+.top-bar a:hover {
+  color: #F97400;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #F97400;
+}
+
+.dropdown-menu .dropdown-item:hover
+{
+	color: #F97400;
+}
+
+.bo-goc {
+  border-radius: 20px;
+}
+.gach-chan {
+  border-bottom: 2px solid #F97400;
+}
+footer {
+  min-height: 500px;
+}
+footer .navbar-nav .nav-item .nav-link:hover {
+  color: #F97400;
+}
